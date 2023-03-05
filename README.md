@@ -20,19 +20,23 @@ Once the model understands the query, it will generate filtering parameters that
 Below link for testing queries list :-https://docs.google.com/spreadsheets/d/1kIIxblgT9G-TqNEQB8MMQ4Otc7vHRAEFaYwJvO2D9Po/edit?usp=sharing
 
 #STEP TO OPERATE CHATBOT
-1. One can start with greeting message as follow
+1. One can start with greeting message as follow.
+2. Then one should give the query for which they are searching.
+3. Chatbot will generate the query output by testing the query using trained model.
+
+Following are the examples for the above mentioned steps.
 
 
 ![Screenshot 2023-03-05 111540](https://user-images.githubusercontent.com/82658115/222945212-354c6fc7-f236-493e-9493-f0f0b6813288.png)
+![image](https://user-images.githubusercontent.com/82659478/222945456-e633a69e-87b5-44c8-a138-ee8798cc7c02.png)
+
 
 #FEATURES
-
+Below linked files is for the regular expression for all the queries filtering :-
+https://docs.google.com/document/d/1psbRsnAGN49ad4ArkDxu6LnZUIqOLrFJw7LFmMJMeyo/edit?usp=sharing
 
 
 #DEPLOYED LINK FOR CHATBOT
-
-
-#PPT LINK
 
 
 #VIDEO LINK
